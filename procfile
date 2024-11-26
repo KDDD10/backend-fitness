@@ -1,0 +1,1 @@
+web: gunicorn app.wsgi --log-file - --bind python-ecommerce-589e268bd578.herokuapp.com:$PORT

@@ -1,0 +1,25 @@
+# Django specific
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+
+# Python
+*.env
+*.venv
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+env
+
+# IDEs and Editors
+.idea/
+.vscode/
+.coverage
+paymentsample.json
